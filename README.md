@@ -1,7 +1,7 @@
 # PhysicsBooster
 A MelonLoader mod that allows you to customize the physics timestep in any supported game. 
 
-Primarially designed for [Until You Fall](https://store.steampowered.com/app/858260/Until_You_Fall/) to fix the jittery hand movemnet on Index at 144hz.
+Primarially designed for [Until You Fall](https://store.steampowered.com/app/858260/Until_You_Fall/) to fix the jittery hand movement on Index at 144hz.
 
 
 Requires MelonLoader v3.0 or higher.
