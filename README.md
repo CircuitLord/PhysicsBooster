@@ -13,7 +13,7 @@ Install [MelonLoader v3.0](https://melonwiki.xyz/#/README)
 
 Run the game once to generate needed files.
 
-Download the latest PhysicsBooster.dll and drop it into Mods/
+[Download](https://github.com/CircuitLord/PhysicsBooster/releases/latest) the latest PhysicsBooster.dll and drop it into Mods/
 
 Run the game, and enjoy!
 
